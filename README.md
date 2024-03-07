@@ -19,7 +19,9 @@
 #### WEEK 1
 - Chapter 1. Introduction
   - PPT Link: <https://hanj.cs.illinois.edu/bk3/bk3_slides/01Intro.ppt>
-  - Additional material:  
+  - Additional materials:
+     - https://github.com/massive-data-computing/ADM/blob/main/ADM_W1.pptx
+     - https://github.com/massive-data-computing/ADM/blob/main/ex0307.html
   
 #### WEEK 2/Week 3
 - Chapter2. Getting to Know Your Data
